@@ -1,5 +1,5 @@
 ---
-title: Testing Thomas
+title: Testing Thomas i dag
 date: Tuesday November 24th, 2020
 thumbnail: /images/uploads/bael-big.jpg
 ---
